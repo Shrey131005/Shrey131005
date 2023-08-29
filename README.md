@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shrey131005
+- 👋 Hi, I’m Shrey Patel
 - 👀 I’m interested in AI/ML ,Web Development , and learing charcter building.
 - 🌱 I’m currently learning web development , Python , C , To use GitHub.
 - 💞️ I’m looking to collaborate on multiple Projects baed on AI/ML, Robotics . 

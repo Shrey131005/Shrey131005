@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Shrey Patel
-- 👀 I’m interested in AI/ML ,Web Development , and learing charcter building.
-- 🌱 I’m currently learning web development , Python , C , To use GitHub.
-- 💞️ I’m looking to collaborate on multiple Projects baed on AI/ML, Robotics . 
-- 📫 contact me through my Gmail ID: shrey131005@gmail.com.
+- 👀 I’m interested in Web Development , and learing charcter building.
+- 💞️ I’m looking to collaborate on multiple Projects on Web-DEV, Robotics .

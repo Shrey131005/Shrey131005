@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Shrey Patel
-- 👀 I’m interested in Web Development , and learing charcter building.
+- 👀 I’m interested in Web Development, Space stuffs.
 - 💞️ I’m looking to collaborate on multiple Projects on Web-DEV, Robotics .
